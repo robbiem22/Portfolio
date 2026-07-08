@@ -34,4 +34,6 @@ function App() {
   );
 }
 
+//My Mom is awesome and I love her so much. She is the best mom in the world and I am so grateful for everything she has done for me. I love you Mom!
+
 export default App;
